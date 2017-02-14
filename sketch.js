@@ -37,7 +37,7 @@ fill(184, 180, 172);
 vertex(161,0);
 vertex(254,86); 
 vertex(266,80.5);
-vertex(271.5,79_; 
+vertex(271.5,79); 
 vertex(279,76.5);
 vertex(287,73.5);
 vertex(296.5,70.5);
